@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1513240904 source:d:\aiub 9th semester\computer graphics [a]\smart city\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+
+1520912372 source:c:\users\ashik\downloads\compressed\smart city-20180601t175650z-001\smart city\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+
+1528215359 source:f:\graphics projects\smart city-20180601t175650z-001\smart city\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+
